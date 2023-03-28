@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Name</string>
+    <string name="main_title">Icon Name</string>
+    <string name="toolbar_title">Title Label</string>
+</resources>
